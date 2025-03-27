@@ -43,4 +43,4 @@ A modern implementation of the classic Snake game with progressive difficulty le
 
 AD King
 
-Try the game here=https://github.com/AchilaDilshanYapa/snake-game-levels/
+Try the game here=https://achiladilshanyapa.github.io/snake-game-levels/
